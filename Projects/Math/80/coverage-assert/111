@@ -1,2 +1,0 @@
-org.apache.commons.math.analysis.solvers.BisectionSolverTest.testSetRelativeAccuracy(org.apache.commons.math.analysis.solvers.BisectionSolverTest) true
-org.apache.commons.math.analysis.solvers.BisectionSolverTest:testSetRelativeAccuracy:()V:171:assertEquals true

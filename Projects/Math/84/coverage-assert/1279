@@ -1,3 +1,0 @@
-org.apache.commons.math.ode.sampling.DummyStepInterpolatorTest.testFixedState(org.apache.commons.math.ode.sampling.DummyStepInterpolatorTest) true
-org.apache.commons.math.ode.sampling.DummyStepInterpolatorTest:testFixedState:()V:66:assertTrue true
-org.apache.commons.math.ode.sampling.DummyStepInterpolatorTest:testFixedState:()V:72:assertTrue true

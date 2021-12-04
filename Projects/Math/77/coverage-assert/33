@@ -1,3 +1,0 @@
-org.apache.commons.math.analysis.BinaryFunctionTest.testSubtract(org.apache.commons.math.analysis.BinaryFunctionTest) true
-org.apache.commons.math.analysis.BinaryFunctionTest:testSubtract:()V:33:assertEquals true
-org.apache.commons.math.analysis.BinaryFunctionTest:testSubtract:()V:34:assertEquals true

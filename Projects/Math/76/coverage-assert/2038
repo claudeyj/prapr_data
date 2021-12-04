@@ -1,3 +1,0 @@
-org.apache.commons.math.util.MathUtilsTest.testGcdConsistency(org.apache.commons.math.util.MathUtilsTest) true
-org.apache.commons.math.util.MathUtilsTest:testGcdConsistency:()V:555:assertEquals true
-org.apache.commons.math.util.MathUtilsTest:testGcdConsistency:()V:558:assertEquals true

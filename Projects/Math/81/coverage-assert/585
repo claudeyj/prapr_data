@@ -1,2 +1,0 @@
-org.apache.commons.math.fraction.FractionTest.testSerial(org.apache.commons.math.fraction.FractionTest) true
-org.apache.commons.math.fraction.FractionTest:testSerial:()V:582:assertEquals true
